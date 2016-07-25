@@ -1,7 +1,15 @@
-
 .header {
     background-image: url(../img/naruto-hokage-wallpaper-for-iphone.jpg);
     border: solid #fff 6px;
     border-radius: 120px;
     text-align: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: 'Mirza', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+p {
+    font-size: 30px;
 }
