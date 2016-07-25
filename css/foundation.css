@@ -634,7 +634,8 @@ button {
   margin-left: 83.33333%; }
 
 .small-12 {
-  width: 100%; }
+  width: 100%;
+display: inline-block;}
 
 .small-offset-11 {
   margin-left: 91.66667%; }
@@ -777,7 +778,7 @@ button {
   .medium-offset-2 {
     margin-left: 16.66667%; }
   .medium-4 {
-    width: 33.33333%; }
+    display: inline-block;}
   .medium-push-4 {
     position: relative;
     left: 33.33333%; }
