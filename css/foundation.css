@@ -857,7 +857,8 @@ button {
   .medium-offset-10 {
     margin-left: 83.33333%; }
   .medium-12 {
-    width: 100%; }
+    max-width: 100%;
+    background-image: url(../img/naruto-hokage-wallpaper-for-iphone.jpg);height: 1090px;background-repeat: no-repeat;font-family: 'Lobster', cursive;border-radius: 120px;}
   .medium-offset-11 {
     margin-left: 91.66667%; }
   .medium-up-1 > .column, .medium-up-1 > .columns {
