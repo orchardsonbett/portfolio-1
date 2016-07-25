@@ -13,3 +13,16 @@ h1 {
 p {
     font-size: 30px;
 }
+img {
+    max-width: 150%;
+    height: 400px;
+    margin: 25px;
+    padding-left: 0;
+    padding-right: 0;
+    border: 5px #fff solid;
+}
+
+.img {
+    max-width: 100%;
+    display: inline-block;
+}
